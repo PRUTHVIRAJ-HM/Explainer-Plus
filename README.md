@@ -4,7 +4,7 @@ With this you can summarize the content from websites that can be summarizing th
 ---
 **Features**
 1. Zero Ads
-2. Free to use (No Limations on Tokes)
+2. Free to use
 3. Easy to read UI
 4. Faster Response
 5. Safe to use
