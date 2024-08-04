@@ -13,3 +13,4 @@ With this you can summarize the content from websites that can be summarizing th
 8. We dont collect or store any of your info in the cloud
 
 Just paste the link then we will take care of it for you
+## Try-now: https://explainerplus.netlify.app/
